@@ -1,1 +1,1 @@
-web: gunicorn application:app
+web: gunicorn tbt:app
